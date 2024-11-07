@@ -63,7 +63,7 @@ def combat(player, enemy):
                 print("You successfully escaped!")
                 return
             else:
-                print("You failed to escape!")
+                print("You failed to escape!!!")
         
         # Enemy attacks
         if enemy.health > 0:

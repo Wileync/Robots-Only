@@ -68,6 +68,7 @@ cd text-based-rpg
 How to Run the Game
 Run the game by executing the Python script:
 
+
 bash
 Copy code
 python game.py

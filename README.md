@@ -15,7 +15,7 @@ Installation
 How to Run the Game
 Getting Started
 This RPG is designed as a console game. Players interact with it by choosing various actions like explore, attack, inventory, or run commands. Progression depends on battles and collecting "Dark Souls."
-
+ 
 Gameplay
 Character Classes
 Choose from three classes:
